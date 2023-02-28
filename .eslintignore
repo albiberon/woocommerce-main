@@ -1,0 +1,14 @@
+**/node_modules/**/*
+**/lib/*
+packages/composables/nuxt/plugin.js
+
+# Generated files
+packages/api-client/src/types/GraphQL.ts
+
+**/node_modules/**/*
+**/lib/*
+
+packages/theme/_theme
+packages/theme/.nuxt
+
+**/tests/*
